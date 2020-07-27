@@ -1,0 +1,234 @@
+
+
+*
+Following the path leads to the destination:
+
+ 1  1  0  0  0 
+ 0  1  1  0  0 
+ 0  0  1  0  0 
+ 0  0  1  1  0 
+ 0  0  0  1  1 
+
+Executed at: 2020-03-27*22:53:17
+*
+
+*
+Following the path leads to the destination:
+
+ 1  1  0  0  0 
+ 0  1  1  0  0 
+ 0  0  1  0  0 
+ 0  0  1  1  0 
+ 0  0  0  1  1 
+
+Executed at: 2020-03-28*00:06:24
+*
+
+*
+Following the path leads to the destination:
+
+ 1  0  0  0  0 
+ 1  1  1  1  0 
+ 0  0  0  1  0 
+ 0  0  0  1  1 
+ 0  0  0  0  1 
+
+Executed at: 2020-06-13*13:35:05
+*
+
+*
+Following the path leads to the destination:
+
+ 1  0  0  0  0 
+ 1  1  1  1  0 
+ 0  0  0  1  0 
+ 0  0  0  1  1 
+ 0  0  0  0  1 
+
+Executed at: 2020-06-13*13:42:53
+*
+
+*
+Following the path leads to the destination:
+
+ 1  0  0  0  0 
+ 1  1  1  1  0 
+ 0  0  0  1  0 
+ 0  0  0  1  1 
+ 0  0  0  0  1 
+
+Executed at: 2020-06-13*13:44:39
+*
+
+*
+Following the path leads to the destination:
+
+ 1  0  0  0  0 
+ 1  1  1  1  0 
+ 0  0  0  1  0 
+ 0  0  0  1  1 
+ 0  0  0  0  1 
+
+Executed at: 2020-06-13*13:45:02
+*
+
+*
+Following the path leads to the destination:
+
+ 1  0  0  0  0 
+ 1  0  0  0  0 
+ 1  0  0  0  0 
+ 1  0  0  0  0 
+ 1  1  1  1  1 
+
+Executed at: 2020-06-13*14:28:39
+*
+
+***
+-1
+no solution for the maze.
+Executed at: 2020-06-13*22:45:14
+***
+
+
+*
+The path found for given inut:
+
+ 1  0  0  0  0 
+ 1  0  0  0  0 
+ 1  0  0  0  0 
+ 1  0  0  0  0 
+ 1  1  1  1  1 
+
+Time stamp of executed file: 2020-06-14*16:23:27
+*
+
+***
+-1
+Didnt found the path
+ Time stamp of executed file: 2020-06-14*16:23:48
+***
+
+
+***
+-1
+Didnt found the path for the given matrix
+ Time stamp of executed file: 2020-06-15*21:59:40
+***
+
+
+*
+The path found for given inut:
+
+ 1  0  0  0  0 
+ 1  0  0  0  0 
+ 1  0  0  0  0 
+ 1  0  0  0  0 
+ 1  1  1  1  1 
+
+Time stamp of executed file: 2020-06-15*21:59:56
+*
+
+*
+The path found for given inut:
+
+ 1  0  0  0  0 
+ 1  0  0  0  0 
+ 1  0  0  0  0 
+ 1  0  0  0  0 
+ 1  1  1  1  1 
+
+Time stamp of executed file: 2020-06-15*22:01:53
+*
+
+***
+-1
+Didnt found the path for the given matrix
+ Time stamp of executed file: 2020-06-15*22:02:21
+***
+
+
+*
+The path found for given inut:
+
+ 1  0  0  0  0 
+ 1  0  0  0  0 
+ 1  0  0  0  0 
+ 1  0  0  0  0 
+ 1  1  1  1  1 
+
+Time stamp of executed file: 2020-06-15*22:04:02
+*
+
+***
+-1
+Didnt found the path for the given matrix
+ Time stamp of executed file: 2020-06-19*10:48:31
+***
+
+
+*
+The path found for given inut:
+
+ 1  0  0  0 
+ 1  0  0  0 
+ 1  1  0  0 
+ 0  1  1  1 
+
+Time stamp of executed file: 2020-06-19*10:49:01
+*
+
+*
+The path found for given inut:
+
+ 1  0  0  0 
+ 1  0  0  0 
+ 1  1  0  0 
+ 0  1  1  1 
+
+Time stamp of executed file: 2020-06-19*11:17:08
+*
+
+***
+-1
+Didnt found the path for the given matrix
+ Time stamp of executed file: 2020-06-19*11:18:01
+***
+
+
+***
+-1
+Didnt found the path for the given matrix
+ Time stamp of executed file: 2020-06-19*11:18:52
+***
+
+
+*
+The path found for given inut:
+
+ 1  0  0  0 
+ 1  0  0  0 
+ 1  1  0  0 
+ 0  1  1  1 
+
+Time stamp of executed file: 2020-07-15*18:07:31
+*
+
+*
+The path found for given inut:
+
+ 1  0  0  0 
+ 1  0  0  0 
+ 1  1  0  0 
+ 0  1  1  1 
+
+Time stamp of executed file: 2020-07-15*18:28:06
+*
+
+***
+-1
+Didnt found the path for the given matrix
+ Time stamp of executed file: 2020-07-15*18:29:21
+***
+
+

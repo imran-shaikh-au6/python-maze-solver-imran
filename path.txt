@@ -1,0 +1,11 @@
+*
+The path found for given inut:
+
+ 1  0  0  0 
+ 1  0  0  0 
+ 1  1  0  0 
+ 0  1  1  1 
+
+Time stamp of executed file: 2020-06-19*10:52:56
+*
+
