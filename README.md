@@ -1,5 +1,4 @@
 # Maze Solver
-`AttainU Python Project`
 `Project Name: Maze Solver`
 `Project Completed By: Imran Shaikh` 
 
